@@ -31,7 +31,7 @@ Secret-Santa-Game/
 # Installation & Setup
 # 1. Clone the Repository
 
-git clone https://github.com/yourusername/Secret-Santa-Game.git
+git clone https://github.com/keerthanaIAS/Secret-Santa-Game
 cd Secret-Santa-Game
 
 # 2. Install Dependencies
